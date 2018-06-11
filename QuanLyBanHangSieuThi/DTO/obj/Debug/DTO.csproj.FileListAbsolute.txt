@@ -1,0 +1,12 @@
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\DTO\bin\Debug\DTO.dll
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\DTO\bin\Debug\DTO.pdb
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.dll
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.pdb
+E:\Thuc Tap Nhom\Home\Version_2\QuanLyBanHangSieuThi\DTO\bin\Debug\DTO.dll
+E:\Thuc Tap Nhom\Home\Version_2\QuanLyBanHangSieuThi\DTO\bin\Debug\DTO.pdb
+E:\Thuc Tap Nhom\Home\Version_2\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Thuc Tap Nhom\Home\Version_2\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Thuc Tap Nhom\Home\Version_2\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.dll
+E:\Thuc Tap Nhom\Home\Version_2\QuanLyBanHangSieuThi\DTO\obj\Debug\DTO.pdb

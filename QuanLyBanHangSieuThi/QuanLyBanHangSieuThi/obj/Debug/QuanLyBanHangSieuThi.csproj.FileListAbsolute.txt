@@ -1,0 +1,12 @@
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\QuanLyBanHangSieuThi.exe.config
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\QuanLyBanHangSieuThi.exe
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\QuanLyBanHangSieuThi.pdb
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.csprojAssemblyReference.cache
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.Form1.resources
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.Properties.Resources.resources
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.csproj.GenerateResource.cache
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.csproj.CoreCompileInputs.cache
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.csproj.CopyComplete
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.exe
+E:\Thuc Tap Nhom\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\QuanLyBanHangSieuThi.pdb
